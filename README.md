@@ -7,6 +7,6 @@ Plastic and reconstructive surgeon (peripheral nerve surgery) in Brussels, Belgi
 - [**medical-photos-app**](https://github.com/Fruitcocktailbe/medical-photos-app) · public, work in progress · Android app for clinical photography: reads the patient label on the device, guides follow-up photos to the exact angle of the pre-op photo, files them outside the camera roll. React Native/Expo, on-device ML Kit. Development build only.
 - [**PolyQuant**](https://github.com/Fruitcocktailbe/PolyQuant) · public, archived · an experiment in cross-exchange arbitrage on prediction markets: Python solver, Rust order sidecar, LLM-based market matching. Paper mode only; parked.
 
-**Private:** SONA (the product), TYMR (hospital scheduling, live pilot with customer data) and my personal AI assistant. Most of my 2026 commits are there.
+**Private:** SONA (the product), TYMR (hospital scheduling, live pilot) and my personal AI assistant. Most of my 2026 commits are there.
 
-Trained at Ghent University (2017–2026), fellowship in Vancouver. Co-founder of a small Belgian web and AI agency. Starting as staff surgeon at UZ Brussel in December 2026.
+Trained at Ghent University (2017–2026), fellowship in Vancouver.
